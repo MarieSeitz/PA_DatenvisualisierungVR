@@ -2217,10 +2217,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Willkommen!\n\nIn unserem virtuellem Museum mit vielen Fakten \xFCber
-    die Auswirkungen des Klimawandels.\nUm zu beginnen klicke den folgenden Button,
-    indem du die Taste an deinem Controller, die du mit dem Zeigefinger erreichen
-    kannst dr\xFCckst.\n"
+  m_text: "Willkommen\n\nin unserem virtuellem Museum mit Fakten \xFCber die Auswirkungen
+    des Menschen auf die Umwelt.\nUm zu beginnen klicke den folgenden Button, indem
+    du die Taste an deinem Controller, die du mit dem Zeigefinger erreichen kannst
+    dr\xFCckst.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
   m_sharedMaterial: {fileID: 3745184686515918370, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
