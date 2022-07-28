@@ -1164,13 +1164,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Folgen der Erw\xE4rmung der Arktis:\r\n- immer weniger altes Eis entsteht\r\n-
-    \u2192 junges Eis ist sehr d\xFCnn und schmilzt schnell wieder bevor es zu altem
-    Eis werden kann\r\n- \u2192 durch das d\xFCnne Eis dringt mehr Sonnenlicht hindurch
-    und w\xE4rmt das Wasser auf\r\n- \u2192 das warme Wasser wiederum l\xE4sst das
-    Eis von unten schmelzen\r\n- wichtiger Lebensraum f\xFCr viele Arten wie Eisb\xE4ren
-    und Robben schwindet\r\n- Meeresspiegel steigt bis zum Mitte des Jahrhunderts
-    um 15 - 30 cm an"
+  m_text: "Folgen der Erw\xE4rmung der Arktis:\r\n- immer weniger altes Eis entsteht\r\n\u2192
+    junges Eis ist sehr d\xFCnn und schmilzt schnell wieder bevor es zu altem Eis
+    werden kann\r\n\u2192 durch das d\xFCnne Eis dringt mehr Sonnenlicht hindurch
+    und w\xE4rmt das Wasser auf\r\n\u2192 das warme Wasser wiederum l\xE4sst das
+    Eis von unten schmelzen\r\n\u2192 wichtiger Lebensraum f\xFCr viele Arten wie
+    Eisb\xE4ren und Robben schwindet\r\n\u2192 der Meeresspiegel steigt bis zum Mitte
+    des Jahrhunderts um 15 - 30 cm an"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
   m_sharedMaterial: {fileID: 3745184686515918370, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
@@ -4236,7 +4236,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sehr gut!\n\nNun wei\xDFt du alles was du wissen musst um zu starten.\n\nViel
+  m_text: "Sehr gut!\n\nNun wei\xDFt du alles, was du wissen musst, um zu starten.\n\nViel
     Spa\xDF!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
@@ -7932,9 +7932,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Willkommen\n\nin unserem virtuellem Museum mit Daten und Fakten \xFCber
-    die Auswirkungen des Menschen auf die Umwelt.\nUm zu beginnen klicke den folgenden
-    Button, indem du die Taste an deinem Controller, die du mit dem Zeigefinger erreichen
-    kannst dr\xFCckst.\n"
+    die Auswirkungen des Menschen auf die Umwelt.\nUm zu beginnen, klicke den folgenden
+    Button indem du die Taste an deinem Controller, die du mit dem Zeigefinger erreichen
+    kannst, dr\xFCckst.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
   m_sharedMaterial: {fileID: 3745184686515918370, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
@@ -8956,7 +8956,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Sehr gut!\n\nMit dem Toggle Button, den du mit deinem Daumen erreichen
     kannst, kannst du dich drehen. Du kannst dich aber auch einfach frei im Raum
-    bewegen. \nWenn du die Anwendung verlassen willst klicke daf\xFCr einfach auf
+    bewegen. \nWenn du die Anwendung verlassen willst, klicke daf\xFCr einfach auf
     den Exit Button \xFCber der T\xFCr."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
@@ -22313,8 +22313,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Die blauen und lilanen Farben stellen dar, wo am Wenigsten Ozon vorhanden
-    ist. \nDie gr\xFCnen, gelben und roten Farben stellen dar, wo am Meisten Ozon
+  m_text: "Die blauen und lilanen Farben stellen dar, wo am wenigsten Ozon vorhanden
+    ist. \nDie gr\xFCnen, gelben und roten Farben stellen dar, wo am meisten Ozon
     ist"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
