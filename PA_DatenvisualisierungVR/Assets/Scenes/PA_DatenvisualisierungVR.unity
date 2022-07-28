@@ -3240,9 +3240,9 @@ MonoBehaviour:
   m_text: 'Bis zum Jahr 2100 wird mit einem globalen Meeresspiegelanstieg um bis
     zu 59 Zentimeter gerechnet.
 
-    Der wissenschaftliche Beirat der deutschen
-    Bundesregierung prognostiziert einen Meeresspiegelanstieg von 2,5 bis 5,1 Metern
-    bis zum Jahr 2300'
+    Der wissenschaftliche Beirat der deutschen Bundesregierung
+    prognostiziert einen Meeresspiegelanstieg von 2,5 bis 5,1 Metern bis zum Jahr
+    2300'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
   m_sharedMaterial: {fileID: 3745184686515918370, guid: f0e3d710e927ef94a920b98bed31dc32, type: 2}
@@ -8431,7 +8431,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &935512825
 GameObject:
@@ -10801,6 +10801,67 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ad44f38c2996cf48b633df49fad9e4c, type: 3}
+--- !u!1001 &1253673221
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.583
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.685
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.085
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9cb7b19dca6843345810e970ef64617b, type: 2}
+    - target: {fileID: 919132149155446097, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
+      propertyPath: m_Name
+      value: Halterung_NichtAbgerundet
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1df23561d6197824ba6f4da72d3fa8cc, type: 3}
 --- !u!1 &1256095489
 GameObject:
   m_ObjectHideFlags: 0
@@ -15925,7 +15986,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 513d490a48fbb2f4d9ac26d5a55e9e3f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.73
+      value: -6.014
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 513d490a48fbb2f4d9ac26d5a55e9e3f, type: 3}
       propertyPath: m_LocalPosition.y
